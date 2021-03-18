@@ -1,0 +1,51 @@
+.card {
+  width: 950px; 
+  height: 500px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 1fr;
+  background: white;
+  box-shadow: 0px 5px 10px 2px rgba(34, 60, 80, 0.2);
+  border-radius: 25px;
+  font-family: 'Kumbh Sans', sans-serif;
+}
+
+.logoContainer {
+  position: relative;
+  overflow: hidden;
+}
+
+h1 {
+  color: hsl(238, 29%, 16%);
+}
+
+.desktopBg {
+  position: absolute;
+  width: 190%;
+  transform: translate(-56%, -31%);
+}
+
+.desktopWoman {
+  position: absolute;
+  width: 100%;
+  transform: translate(-17%, 20%);
+}
+
+.box {
+  position: absolute;
+  transform: translate(-56%, 110%);
+  animation: slidein 2s linear 0s infinite alternate;
+}
+
+@keyframes slidein {
+  from {
+    transform: translate(-56%, 110%);
+  }
+  to {
+    transform: translate(-46%, 110%);
+  }
+}
+
+.accordionContainer {
+  margin-top: 3rem;
+}
