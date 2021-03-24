@@ -49,3 +49,13 @@
   font-size: 12px;
   color: hsl(240, 6%, 50%);
 }
+
+@media (max-width: 450px) {
+  .accordion__section {
+    width: 100%;
+  }
+
+  .accordion {
+    padding-right: 0;
+  }
+}
