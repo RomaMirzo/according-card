@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/according-card/static/css/main.7edc69ff.chunk.css",
+    "main.js": "/according-card/static/js/main.7b313f19.chunk.js",
+    "main.js.map": "/according-card/static/js/main.7b313f19.chunk.js.map",
+    "runtime-main.js": "/according-card/static/js/runtime-main.40812385.js",
+    "runtime-main.js.map": "/according-card/static/js/runtime-main.40812385.js.map",
+    "static/js/2.69ecf0ac.chunk.js": "/according-card/static/js/2.69ecf0ac.chunk.js",
+    "static/js/2.69ecf0ac.chunk.js.map": "/according-card/static/js/2.69ecf0ac.chunk.js.map",
+    "static/js/3.f8e2986c.chunk.js": "/according-card/static/js/3.f8e2986c.chunk.js",
+    "static/js/3.f8e2986c.chunk.js.map": "/according-card/static/js/3.f8e2986c.chunk.js.map",
+    "index.html": "/according-card/index.html",
+    "static/css/main.7edc69ff.chunk.css.map": "/according-card/static/css/main.7edc69ff.chunk.css.map",
+    "static/js/2.69ecf0ac.chunk.js.LICENSE.txt": "/according-card/static/js/2.69ecf0ac.chunk.js.LICENSE.txt",
+    "static/media/bg-pattern-desktop.f51e07a2.svg": "/according-card/static/media/bg-pattern-desktop.f51e07a2.svg",
+    "static/media/icon-arrow-down.852fa301.svg": "/according-card/static/media/icon-arrow-down.852fa301.svg",
+    "static/media/illustration-box-desktop.ec1ba14b.svg": "/according-card/static/media/illustration-box-desktop.ec1ba14b.svg",
+    "static/media/illustration-woman-online-desktop.843eb114.svg": "/according-card/static/media/illustration-woman-online-desktop.843eb114.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.40812385.js",
+    "static/js/2.69ecf0ac.chunk.js",
+    "static/css/main.7edc69ff.chunk.css",
+    "static/js/main.7b313f19.chunk.js"
+  ]
+}
