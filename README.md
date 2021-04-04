@@ -1,0 +1,1 @@
+This is a solution to the [FAQ accordion card challenge on Frontend Mentor] using React.js.
